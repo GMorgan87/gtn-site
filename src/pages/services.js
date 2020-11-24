@@ -29,6 +29,39 @@ const ElementsPage = ({ data }, location) => {
             tailored to meet the specific needs of individual customers.
           </h4>
         </div>
+        <div>
+          <div>
+            <h4>Services Include</h4>
+            <ul>
+              <li>3D Animation</li>
+              <li>General CAD Projects</li>
+              <li>Mechanical and Structural Detailing</li>
+              <li>Basic Dimensional Laser Surveys</li>
+              <li>In-House 3D Plastic Model Printing</li>
+              <li>Technical Presentations</li>
+              <li>Short and Long-term CAD Projects</li>
+              <li>Fast Track Engineering Projects</li>
+            </ul>
+          </div>
+          <div>
+            <h4>Software</h4>
+            <ul>
+              <li>SolidWorks 3D CAD</li>
+              <li>AutoCAD LT</li>
+              <li>Autodesk 3DS Max</li>
+              <li>AutoMet ML Survey</li>
+              <li>Leica TS 30</li>
+            </ul>
+          </div>
+          <div>
+            <h4>Design Review</h4>
+            <ul>
+              <li>DNV GL</li>
+              <li>Bureau Veritas</li>
+              <li>Lloyd's Register</li>
+            </ul>
+          </div>
+        </div>
       </article>
     </Layout>
   )

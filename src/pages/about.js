@@ -28,7 +28,7 @@ const AboutPage = ({ data }, location) => {
               fluid={data.boatRender.childImageSharp.fluid}
               className="kg-image"
             />
-            <figcaption>Large imagery is at the heart of this theme</figcaption>
+            <figcaption>Modeled in Solidworks and Rendered in 3ds Max</figcaption>
           </figure>
           <p>
             More Text Here

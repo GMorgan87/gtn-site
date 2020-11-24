@@ -1,10 +1,8 @@
 ---
-title: It's all blue
+title: 2.7-2 Structural Design
 date: "2019-05-06"
-thumbnail: ./cody-davis-253928-unsplash.jpg
-description: What if everything you knew was turned to blue?
+thumbnail: ./272-structural-design.jpg
+description:  
 ---
 
-![It's all blue](./cody-davis-253925-unsplash.jpg)
-
-![It's all blue](./cody-davis-259003-unsplash.jpg)
+DNV 2.7-2 Structural Design INFO
