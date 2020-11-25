@@ -29,9 +29,9 @@ const ElementsPage = ({ data }, location) => {
             tailored to meet the specific needs of individual customers.
           </h4>
         </div>
-        <div>
-          <div>
-            <h4>Services Include</h4>
+        <div className="services-list">
+          <div className="border">
+            <h4>Our Services Include</h4>
             <ul>
               <li>3D Animation</li>
               <li>General CAD Projects</li>

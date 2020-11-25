@@ -1,6 +1,6 @@
 ---
 title: Mechanical Drawings
-date: "2019-05-07"
+date: "2020-01-09"
 thumbnail: ./mechanical-drawings.jpg
 description:  
 ---
