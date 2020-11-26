@@ -33,9 +33,13 @@ Scotland
             <p>
               <input type="hidden" name="bot-field" />
               <input type="hidden" name="form-name" value="contact" />
+              <input type="hidden" name="subject" value="website enquiry" />
             </p>
             <p>
               <label>Your Name: <input type="text" name="name" /></label>   
+            </p>
+            <p>
+              <label>Company: <input type="text" name="company" /></label>
             </p>
             <p>
               <label>Your Email: <input type="email" name="email" /></label>
