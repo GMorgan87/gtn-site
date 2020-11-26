@@ -24,6 +24,7 @@ const AboutPage = ({ data }, location) => {
           <p>
             <strong>Garry Nicoll</strong><br/>
             Drawing Office Manager<br/><br/>
+            Email: cad@gtnuk.com<br/>
             Telephone: +44 (0)1224 783111<br/><br/>
           </p>
           <p>
@@ -34,6 +35,8 @@ const AboutPage = ({ data }, location) => {
             AB12 4YD<br/>
           </p>
           </div>
+          <p>If you have any queries please do not hesitate to contact us by telephone, 
+             e-mail or using the enquiry form below:</p>
           <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
             <p>
               <input type="hidden" name="bot-field"/>
