@@ -21,8 +21,28 @@ const AboutPage = ({ data }, location) => {
             Contact Us
           </h4>
           <p>
-            More Text Here
+            Garry Nicoll
+            Drawing Office Manager
+            Telephone +44 (0)1224 783111
+            GTN Technical Services Limited
+            Badentoy Crescent Business Centre
+            Portlethen, Aberdeen, AB12 4YD
+Scotland
           </p>
+          <form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
         </div>
       </article>
     </Layout>
