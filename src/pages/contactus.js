@@ -20,20 +20,25 @@ const AboutPage = ({ data }, location) => {
           <h4>
             Contact Us
           </h4>
+          <div className="contact-us">
           <p>
-            Garry Nicoll
-            Drawing Office Manager
-            Telephone +44 (0)1224 783111
-            GTN Technical Services Limited
-            Badentoy Crescent Business Centre
-            Portlethen, Aberdeen, AB12 4YD
-Scotland
+            <strong>Garry Nicoll</strong><br/>
+            Drawing Office Manager<br/><br/>
+            Telephone: +44 (0)1224 783111<br/><br/>
           </p>
+          <p>
+            GTN Technical Services Limited<br/>
+            Badentoy Crescent Business Centre<br/>
+            Portlethen<br/>
+            Aberdeen<br/>
+            AB12 4YD<br/>
+          </p>
+          </div>
           <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
             <p>
-              <input type="hidden" name="bot-field" />
-              <input type="hidden" name="form-name" value="contact" />
-              <input type="hidden" name="subject" value="website enquiry" />
+              <input type="hidden" name="bot-field"/>
+              <input type="hidden" name="form-name" value="contact"/>
+              <input type="hidden" name="subject" value="Website Enquiry"/>
             </p>
             <p>
               <label>Your Name: <input type="text" name="name" /></label>   
@@ -51,11 +56,6 @@ Scotland
               <button type="submit">Send</button>
             </p>
           </form>
-
-
-
-
-
         </div>
       </article>
     </Layout>

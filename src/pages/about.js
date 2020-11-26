@@ -17,12 +17,12 @@ const AboutPage = ({ data }, location) => {
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
-          <h4>
+          <p>
             GTN Technical Services, established in 1990 are a reputable CAD design draughting service company with a successful track record within the global oil and gas industry.
-          </h4>
-          <h4>
+          </p>
+          <p>
             We have a modern equipped drawing office based in Aberdeen, Scotland providing a variety of services. Our core business is providing 3D CAD draughting and animation services.
-          </h4>
+          </p>
           <figure className="kg-card kg-image-card kg-width-full">
             <Img
               fluid={data.boatRender.childImageSharp.fluid}

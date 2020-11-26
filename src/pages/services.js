@@ -20,14 +20,14 @@ const ElementsPage = ({ data }, location) => {
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
-          <h4>
+          <p>
             Our experience has shown that organisations find it increasingly
             difficult to obtain professional quality CAD draughtsmen at short notice,
             particularly for small to medium term contracts. We have developed our business
             to suit this demand and provide quality solutions for a wide range of customers.
             Our flexibility and up to the minute expertise can provide a range of services
             tailored to meet the specific needs of individual customers.
-          </h4>
+          </p>
         </div>
         <div className="services-list">
           <div className="border">

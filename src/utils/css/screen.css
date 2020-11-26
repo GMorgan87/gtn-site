@@ -730,3 +730,9 @@ body {
     justify-content: space-between;
 }
 
+.contact-us {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
