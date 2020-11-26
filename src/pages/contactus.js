@@ -27,7 +27,7 @@ const AboutPage = ({ data }, location) => {
             Email: cad@gtnuk.com<br/>
             Telephone: +44 (0)1224 783111<br/><br/>
           </p>
-          <p>
+          <p className="address">
             GTN Technical Services Limited<br/>
             Badentoy Crescent Business Centre<br/>
             Portlethen<br/>
