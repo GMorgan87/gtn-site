@@ -5,7 +5,6 @@ thumbnail: ./dnv-design-review.jpg
 description: DNV Design Review
 ---
 
-<!-- ![DNV 2.7-1](./DNV_design_review.gif) -->
+![DNV 2.7-1](video: http://www.navar.org/dnv.mp4)
 
 
-'video: http://www.navar.org/dnv.mp4'
